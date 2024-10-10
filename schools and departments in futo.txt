@@ -1,0 +1,21 @@
+schools in futo 
+SAAT 	(Agricultural Economics, Agricultural Extension, Animal Science and Technology,
+	Crop Science and Technology, Fisheries and Awuaculture Technology,
+	Forestry and Wildlife Technology, sol Science and Technology)
+SBMS	(Human Anatomy, Human Physiology)
+SOHT	(Dental Technology, Environmental Health Science, Optometry
+	Prosthetics and ORthotics, Public Health Technology)
+SICT	(Computer Science, Cyber Security, Information Technology, software Engineering)
+SOBS 	(Biochemistry, Biology, Biotechnology, Microbiology, Forensic Science)
+SLIT	(Entrepreneurship and Innovation, Logistics and Transport technology, supply chain Managemenet
+	Projoect Management Technology
+SOPS	(Chemistry, Geology, Mathematics, Physics, Science Laboratory Technology, Statistics)
+SEET	(Agricultural and Bio Resources Engineering, Biomedical Engineering, chemical Engineering,
+	Civil engineering, Food Sciecne and Technolgy, Material and Metallurgical Engineering, 
+	Mechanical engineering, Petroleum Engineering, Ployer and TExtile Engineering)
+SESET	(Computer Engineering, Electrical (Power Systems) Engineering, Mechatronics Engineering, 
+	Telecommunication Engineering, Electrical and Electronics Engineering)
+SPGS	(PG School)
+SOES	(Architecture, Building Technology, Environmental Management, Quality surverying, 
+	Urban and Regional Planning, Environmental Management and EValuation)
+directorate of General Studies (General STudies)

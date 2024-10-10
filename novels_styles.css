@@ -1,0 +1,87 @@
+header {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0px;
+    border-radius: 20px;
+    font-family:cursive;
+    font-size: 20px;
+    line-height: 1px;
+}
+
+body {
+    font-family: Arial, Comics Sans;
+    line-height: 1;
+    margin: 0;
+    padding: 3px;
+    background-color: #111;
+    border-radius: 30px;
+}
+
+.head{
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    padding: 1px 0px;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+
+summary{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+details{
+    font-family:monospace;
+    font-size: 16px;
+    background-color: #111;
+    border-radius: 20px;
+    padding: 18px 4px;
+    margin: 6px;
+    color: #fff;
+}
+
+.faq{
+    font-family:monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+.title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 10;
+    background-color: #111;
+    border: 2px none #999;
+    border-color: none;
+    text-align: left;
+    display:ruby;
+}
+
+button{
+    background-color: rgb(10, 24, 20);
+    position: center;
+    border-radius: 20px;
+    border-color: #252522;
+    color: white;
+}
+
+footer {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11px;
+    background-color:#111;
+    color:#fff;
+    text-align: right;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    position: sticky;
+    right: 0px;
+    bottom: 0px;
+}
